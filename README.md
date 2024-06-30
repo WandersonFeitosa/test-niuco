@@ -133,7 +133,7 @@ Uma alternativa também é utilizar um endpoit externo disponibilizado para essa
   
 
 ```bash
-http://34.122.46.191/v1/niuco-mock
+http://34.46.238.227/v1/niuco-mock
 ```
 
   
